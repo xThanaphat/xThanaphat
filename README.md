@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/B69Q5Xsj/505df2be-ea7b-47e6-ab5e-d722f7454c48.png" width="900" alt="Thanaphat Hansuvan Banner"/>
+  <img src="https://i.postimg.cc/KzMfVpd9/banner.png" width="900" alt="Thanaphat Hansuvan Banner"/>
 </p>
 
 <h1 align="center">👋 Hi, I’m Thanaphat Hansuvan</h1>
