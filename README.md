@@ -20,7 +20,7 @@
 ## 🛠️ Tech Stack
 
 - **Programming:** Java (Spring Boot), Python, PHP (Laravel), Node.js, JavaScript, Golang
-- **DevOps & Cloud:** Docker, Kubernetes, Jenkins, GitHub Actions, GitLab CI, Terraform (Basic), AWS (EC2, S3), GCP, Azure (beginner)
+- **DevOps & Cloud:** Docker, Kubernetes, Jenkins, GitHub Actions, GitLab CI, Terraform, AWS (EC2, S3), GCP, Azure
 - **Monitoring:** Prometheus, Grafana
 - **Database:** MySQL, PostgreSQL, SQL Server
 - **Web:** Laravel, Express, React.js, Tailwind CSS
