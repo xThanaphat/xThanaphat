@@ -60,7 +60,6 @@
 - 📧 Email: thanaphat121@gmail.com
 - 🌏 Location: Bangkok, Thailand
 - [Resume,CV](Please cantact email.)
-- [LinkedIn](https://linkedin.com/in/xThanaphat)
 - [GitHub](https://github.com/xThanaphat)
 
 ---
