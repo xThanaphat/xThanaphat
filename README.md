@@ -32,7 +32,7 @@
 
 - **LINE Bot Automation:** LINE OA integrated with Google Sheets, Dialogflow, Apps Script for smart business use  
 - **Instagram AutoPoster:** Python system for automated IG posting, video processing  
-- **Inventory Management System:** Stock management backend, REST APIs, payment/auth integration  
+- **Inventory Management System:** Stock management backend, REST APIs, payment/auth integration (www.unionmicronclean.com)
 - **E-Commerce Web Platform:** Secure e-commerce modules, product catalog, AuthAPI (www.growrich-infinity.co.th, www.nanchanok.com)  
 - **Personal Portfolio Website:** Responsive, visually engaging, full-stack portfolio (www.ziga.co.th, www.tbe.co.th)
 - ** MORE IN GIT BRO**
