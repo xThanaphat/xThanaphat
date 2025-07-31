@@ -32,24 +32,22 @@
 
 ## 🚀 Highlight DevOps Projects
 
-> Below are selected projects highlighting my DevOps, cloud, and automation skills.
-
-### 🔹 [Secure DevOps Azure Lab](https://github.com/xThanaphat/secure-devops-azure-lab)
+## 🔹 [Secure DevOps Azure Lab](https://github.com/xThanaphat/secure-devops-azure-lab)
 Built a secure DevOps pipeline on Azure using IaC (Terraform), CI/CD with GitHub Actions, container security, and real-world monitoring (Prometheus, Grafana).
 
-### 🔹 [DevOps CI/CD Pipeline (GCP, Jenkins, Docker, K8s)](https://github.com/xThanaphat/devops-pipeline-jenskincicd)
+## 🔹 [DevOps CI/CD Pipeline (GCP, Jenkins, Docker, K8s)](https://github.com/xThanaphat/devops-pipeline-jenskincicd)
 Designed and implemented an automated CI/CD pipeline on Google Cloud Platform using Jenkins, Docker, and Kubernetes for seamless build, deployment, and scaling.
 
-### 🔹 [DotnetApp on Kubernetes (Helm, Prometheus)](https://github.com/xThanaphat/dotnetcore-kubernetes-k8s-)
+## 🔹 [DotnetApp on Kubernetes (Helm, Prometheus)](https://github.com/xThanaphat/dotnetcore-kubernetes-k8s-)
 Deployed and monitored a .NET Core application on Kubernetes using Helm and Prometheus, simulating a production-grade environment.
 
-### 🔹 LINE Bot Automation
+## 🔹 LINE Bot Automation
 Business-ready LINE Official Account with Google Sheets, Dialogflow, Apps Script, and CI/CD for continuous updates (deployed, in-production).
 
-### 🔹 Instagram AutoPoster
+## 🔹 Instagram AutoPoster
 Python-based system for automated Instagram posting, video/image processing, cloud deployment, and log monitoring.
 
-### 🔹 Inventory & E-Commerce Backends
+## 🔹 Inventory & E-Commerce Backends
 REST APIs for stock/inventory management, payment, and authentication modules with CI/CD and secure cloud deployment.  
 _(See: [unionmicronclean.com](https://unionmicronclean.com), [growrich-infinity.co.th](https://growrich-infinity.co.th), [nanchanok.com](https://nanchanok.com))_
 
@@ -79,7 +77,6 @@ _(See: [unionmicronclean.com](https://unionmicronclean.com), [growrich-infinity.
 
 - 📧 Email: thanaphat121@gmail.com
 - 🌏 Location: Bangkok, Thailand
-- 📞 Tel: +66-94-5947979
 - 💼 Resume/CV: Please contact by email
 - 🏢 Open for: DevOps Engineer, Cloud Engineer, Software Engineer
 
