@@ -33,7 +33,7 @@ React.js, Tailwind CSS, Express, Vue, Vite, Git, Swagger
 - [**Secure DevOps Azure Lab**](https://github.com/xThanaphat/secure-devops-azure-lab): IaC (Terraform), CI/CD, security, Prometheus, Grafana
 - [**DevOps CI/CD (GCP, Jenkins, K8s)**](https://github.com/xThanaphat/devops-pipeline-jenskincicd)
 - [**DotnetApp on Kubernetes**](https://github.com/xThanaphat/dotnetcore-kubernetes-k8s-)
-- [**Webapps Deployed on AWS (EC2)**]([https://github.com/xThanaphat/dotnetcore-kubernetes-k8s-](https://github.com/xThanaphat/webapps-deployed-with-awsec2))
+- [**Webapps Deployed on AWS (EC2)**]([https://github.com/xThanaphat/webapps-deployed-with-awsec2])
 - LINE Bot Automation: Google Sheets, Dialogflow, Apps Script, Flex Message, CI/CD
 - Instagram AutoPoster: Python, cloud deploy, monitoring
 - Inventory/E-Commerce APIs: RESTful services, deployed  
