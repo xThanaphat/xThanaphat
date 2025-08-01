@@ -3,88 +3,67 @@
 </p>
 
 <h1 align="center">👋 Hi, I’m Thanaphat Hansuvan</h1>
-<h3 align="center">Software Engineer → DevOps | Cloud Enthusiast | Automation Addict</h3>
+<h3 align="center">DevOps | Cloud | Fullstack Engineer</h3>
 <p align="center"><b>automation • cloud • coding</b></p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- Software Engineer with 2+ years’ experience (backend, full-stack, automation)
-- Specialized in API integration, scalable RESTful systems, CI/CD, and cloud solutions
-- Building DevOps pipelines (Jenkins, GitHub Actions, GCP, Docker, Kubernetes, Helm)
-- Passionate about DevOps, Cloud, IaC, and Continuous Delivery
-- Currently: M.Eng. (AI & IoT), Thammasat University (2025–present)
-- Focus: Modern DevOps, Automation, and AI-powered engineering
+- 2+ years’ experience in backend, fullstack, automation & DevOps
+- Delivered production-grade systems: API, RESTful, CI/CD, Cloud, Monitoring
+- Built real DevOps pipelines (Jenkins, GitHub Actions, Docker, Kubernetes, Terraform)
+- Hands-on with AWS, GCP, Azure, secure auth, database optimization
+- M.Eng. (AI & IoT), Thammasat University (2025–present)
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Programming:** Java (Spring Boot), Python, PHP (Laravel), Node.js, JavaScript, Golang
-- **DevOps & Cloud:** Docker, Kubernetes, Jenkins, GitLab CI, GitHub Actions, Helm, Terraform, AWS (EC2, S3), GCP, Azure
-- **Monitoring:** Prometheus, Grafana
-- **Database:** MySQL, PostgreSQL, SQL Server
-- **Web:** Laravel, Express, React.js, Tailwind CSS, Vue, Vite
-- **Tools:** Git, Swagger, Google API, Container Security
+Java (Spring Boot), Python, Node.js, PHP (Laravel), Golang  
+Docker, Kubernetes, Jenkins, GitHub Actions, GitLab CI, Helm, Terraform  
+AWS, GCP, Azure, Prometheus, Grafana  
+MySQL, PostgreSQL, SQL Server  
+React.js, Tailwind CSS, Express, Vue, Vite, Git, Swagger
 
 ---
 
-## 🚀 Highlight DevOps Projects
+## 🚀 Key Projects
 
-## 🔹 [Secure DevOps Azure Lab](https://github.com/xThanaphat/secure-devops-azure-lab)
-Built a secure DevOps pipeline on Azure using IaC (Terraform), CI/CD with GitHub Actions, container security, and real-world monitoring (Prometheus, Grafana).
+- [**Secure DevOps Azure Lab**](https://github.com/xThanaphat/secure-devops-azure-lab): IaC (Terraform), CI/CD, security, Prometheus, Grafana
+- [**DevOps CI/CD (GCP, Jenkins, K8s)**](https://github.com/xThanaphat/devops-pipeline-jenskincicd)
+- [**DotnetApp on Kubernetes**](https://github.com/xThanaphat/dotnetcore-kubernetes-k8s-)
+- [**Webapps Deployed on AWS (EC2)**]([https://github.com/xThanaphat/dotnetcore-kubernetes-k8s-](https://github.com/xThanaphat/webapps-deployed-with-awsec2))
+- LINE Bot Automation: Google Sheets, Dialogflow, Apps Script, Flex Message, CI/CD
+- Instagram AutoPoster: Python, cloud deploy, monitoring
+- Inventory/E-Commerce APIs: RESTful services, deployed  
+  _(unionmicronclean.com, growrich-infinity.co.th, nanchanok.com)_
+- Personal Web Platform: [ziga.co.th](https://www.ziga.co.th/), [tbe.co.th](https://www.tbe.co.th/)
 
-## 🔹 [DevOps CI/CD Pipeline (GCP, Jenkins, Docker, K8s)](https://github.com/xThanaphat/devops-pipeline-jenskincicd)
-Designed and implemented an automated CI/CD pipeline on Google Cloud Platform using Jenkins, Docker, and Kubernetes for seamless build, deployment, and scaling.
-
-## 🔹 [DotnetApp on Kubernetes (Helm, Prometheus)](https://github.com/xThanaphat/dotnetcore-kubernetes-k8s-)
-Deployed and monitored a .NET Core application on Kubernetes using Helm and Prometheus, simulating a production-grade environment.
-
-## 🔹 LINE Bot Automation
-Business-ready LINE Official Account with Google Sheets, Dialogflow, Apps Script, and CI/CD for continuous updates (deployed, in-production).
-
-## 🔹 Instagram AutoPoster
-Python-based system for automated Instagram posting, video/image processing, cloud deployment, and log monitoring.
-
-## 🔹 Inventory & E-Commerce Backends
-REST APIs for stock/inventory management, payment, and authentication modules with CI/CD and secure cloud deployment.  
-_(See: [unionmicronclean.com](https://unionmicronclean.com), [growrich-infinity.co.th](https://growrich-infinity.co.th), [nanchanok.com](https://nanchanok.com))_
-
-> _More code & projects: [GitHub/xThanaphat](https://github.com/xThanaphat)_
+> More: [github.com/xThanaphat](https://github.com/xThanaphat)
 
 ---
 
 ## 🏅 Certifications
 
-- Thai Professional Engineering License (Associate, Industrial Engineering)
-- FutureSkill: DevOps Engineer, Docker/Kubernetes, Golang REST API
+- Thai Professional Engineering License (Assoc. Ind. Eng.)
+- FutureSkill: DevOps Engineer, Docker/K8s, AWS, Golang REST API
 - BornToDev: DevOps Security (Azure), Node.js/Express
 - Microsoft Learn: [DevOps Career Path](https://learn.microsoft.com/th-th/users/thanaphathansuvan-5792/)
-- Full Portfolio: [Google Drive](https://drive.google.com/file/d/1QnEw4HoJXQX0c40urnxIfl18NGVkHk9s/view?usp=sharing)
 
----
-
-## 📚 Currently Learning
-
-- Advanced DevOps: CI/CD, Kubernetes, Terraform, Cloud Monitoring
-- AI/ML, Deep Learning, Data Engineering
-- Cloud AI, IoT, Modern Security Practices
+[Full portfolio](https://drive.google.com/file/d/1QnEw4HoJXQX0c40urnxIfl18NGVkHk9s/view?usp=sharing)
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: thanaphat121@gmail.com
-- 🌏 Location: Bangkok, Thailand
-- 💼 Resume/CV: Please contact by email
-- 🏢 Open for: DevOps Engineer, Cloud Engineer, Software Engineer
+📧 thanaphat121@gmail.com  
+🌏 Bangkok, Thailand  
+[github.com/xThanaphat](https://github.com/xThanaphat)
 
 ---
 
 <p align="center">
-  <em>Let’s connect & build something awesome.<br>
-  Open to DevOps, Cloud, and Automation opportunities.<br>
-  <a href="https://github.com/xThanaphat" target="_blank">github.com/xThanaphat</a>
-</em>
+  <em>Let’s build something impactful.<br>
+  Open to DevOps, Cloud, and Fullstack opportunities.</em>
 </p>
