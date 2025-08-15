@@ -20,11 +20,11 @@
 
 ## 🛠️ Tech Stack
 
-Java (Spring Boot), Python, Node.js, PHP (Laravel), Golang  
+PHP (Laravel), Node.js(Express,React,Next), Python, Java (Spring Boot), Golang  
 Docker, Kubernetes, Jenkins, GitHub Actions, GitLab CI, Helm, Terraform  
 AWS, GCP, Azure, Prometheus, Grafana  
 MySQL, PostgreSQL, SQL Server  
-React.js, Tailwind CSS, Express, Vue, Vite, Git, Swagger
+React.js, Tailwind CSS, Express, Vue, Vite, Git
 
 ---
 
