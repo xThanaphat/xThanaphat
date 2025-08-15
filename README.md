@@ -37,7 +37,7 @@ React.js, Tailwind CSS, Express, Vue, Vite, Git, Swagger
 - LINE Bot Automation: Google Sheets, Dialogflow, Apps Script, Flex Message, CI/CD
 - Instagram AutoPoster: Python, cloud deploy, monitoring
 - Inventory/E-Commerce APIs: RESTful services, deployed  
-  _(unionmicronclean.com, growrich-infinity.co.th, nanchanok.com)_
+  _[unionmicronclean.com](https://www.unionmicronclean.com/) [growrich-infinity.co.th](https://www.growrich-infinity.co.th/), [nanchanok.com](https://www.nanchanok.com/)_
 - Personal Web Platform: [ziga.co.th](https://www.ziga.co.th/), [tbe.co.th](https://www.tbe.co.th/)
 
 > More: [github.com/xThanaphat](https://github.com/xThanaphat)
